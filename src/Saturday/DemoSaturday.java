@@ -7,12 +7,13 @@ public class DemoSaturday {
 		System.out.println("Saturday Demo....");
 		
 		System.out.println(" xyz");
-	
-	
-	//this is coming from github
-	
-	System.out.println(" lets see the changes");
-	
+	}
+		
+		
+		//changes made by shahla
+		public void addNum(int a, int b) {
+			System.out.println("a + b");
+	}
 
 }
 }
